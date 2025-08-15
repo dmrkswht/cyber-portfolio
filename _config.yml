@@ -4,7 +4,7 @@ email: white.demarkos3@gmail.com
 url: https://dmrkswht.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Pen Tester"
+skills: "Cybersecurity - SOC Analyst - Pen Tester"
 meta_author: White DeMarkos
 
 # Google webmaster tools
@@ -25,9 +25,9 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: f77f00 #80B3FF
+  primary: F77F00 #80B3FF
   primary-rgb: "247,127,0" #"128,179,255"
-  secondary: d62828 #FD6E8A
+  secondary: D62828 #FD6E8A
   secondary-dark: 003049 #A2122F
 
 # Footer settings
@@ -41,7 +41,7 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/dmrkswht3/
-  - title: github
+  - title: ithub
     url: https://github.com/dmrkswht
 
 # Email Address (make sure to include "mailto:" before your email!)
